@@ -1,4 +1,11 @@
-## Hi there 👋
+# Hallo 👋
+ 
+I'm **Ismail Extrant** 6th semester at Brawijaya University who have highly dedicated learning about **Android Development** using **Kotlin and Android Studio**.<br>
+ 
+I'm a Member of **Bangkit Academy 2024 Batch 1** focusing on **Mobile Development**.<br>
+ 
+If you'd like to learn more about me, please visit my [LinkedIn](https://www.linkedin.com/in/ismail-extrant/).
+ 
 
 <!--
 **Xtrant/Xtrant** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
